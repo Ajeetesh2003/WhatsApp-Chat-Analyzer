@@ -1,0 +1,1 @@
+A streamlit app to analyze your whatsapp chats. Allows the option to analyze both one to one and group chats by uploading on the website. Provides key visualizations about word count, frequency, bar charts, heat maps for activity by and day and time, word clouds etc.
